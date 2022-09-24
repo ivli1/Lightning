@@ -4,7 +4,7 @@ int xf = 0;
 int yf = 0;
 boolean i = true;
 void setup(){
-size(800,800);
+size(700,700);
 strokeWeight(10);
 background(#cccccc);
 frameRate(25);
